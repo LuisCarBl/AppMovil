@@ -40,5 +40,32 @@
         "id": 1,
         "telefono": "4503919"
     }
-  ]
+  ],
+  "Categorias": [
+    {
+        "nombre": "pqs",
+        "idcategoria": 1,
+        "estado": true
+    },
+    {
+        "nombre": "Agua Presurizada",
+        "idcategoria": 2,
+        "estado": true
+    },
+    {
+        "nombre": "CO2",
+        "idcategoria": 3,
+        "estado": true
+    },
+    {
+        "nombre": "Espuma",
+        "idcategoria": 4,
+        "estado": true
+    },
+    {
+        "nombre": "Acetato de Postasio",
+        "idcategoria": 5,
+        "estado": true
+    }
+]
 }
