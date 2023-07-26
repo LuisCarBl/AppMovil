@@ -1,30 +1,11 @@
 {
-  {
-        "nombre": "Extintor de Agua 10 Litros",
-        "precio": 60.00,
-        "descripcion": "Los extintores de agua apagan el fuego quitando el elemento de calor del triángulo de fuego.",
-        "idcategoria": 2,
-        "id": 1
-    },
+  "posts": [
     {
-        "nombre": "Extintor PQS 20 Litros ",
-        "precio": 75.00,
-        "descripcion": "Los extintores de incendios químicos secos operados por cartucho extinguen el incendio principalmente al interrumpir la reacción química del triángulo de fuego.",
-        "idcategoria": 1,
-        "id": 2
-    },
-    {
-        "nombre": "Extintor de Espuma 6 Litros ",
-        "precio": 70.00,
-        "descripcion": "El extintor de espuma es apropiado para la extinción de incendios de tipo A (sólidos) y tipo B (líquidos inflamables derivados del petróleo).",
-        "idcategoria": 4,
-        "id": 3
-    },
-    {
-        "nombre": "Extintor de CO2 5 Libras ",
-        "precio": 70.00,
-        "descripcion": "Los extintores de incendios de gas carbónico extinguen el fuego quitando el elemento de oxígeno del triángulo del fuego y también eliminando el calor con una descarga muy fría.",
-        "idcategoria": 3,
-        "id": 4
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
