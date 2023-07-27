@@ -1,10 +1,12 @@
 {
   "productos": [
     {
+        {
         "nombre": "Extintor de Agua 10 Litros",
         "precio": 60.00,
         "descripcion": "Los extintores de agua apagan el fuego quitando el elemento de calor del triángulo de fuego.",
         "idcategoria": 2,
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/extintores-san-juan-44d5f.appspot.com/o/extintoraguapresuarizada.jpg?alt=media&token=d0b2f27e-5c2a-4d60-b293-db0e4e05a7d4",
         "id": 1
     },
     {
@@ -12,6 +14,7 @@
         "precio": 75.00,
         "descripcion": "Los extintores de incendios químicos secos operados por cartucho extinguen el incendio principalmente al interrumpir la reacción química del triángulo de fuego.",
         "idcategoria": 1,
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/extintores-san-juan-44d5f.appspot.com/o/extintorpqs.jpg?alt=media&token=1d1c05fa-65c7-4d11-a067-5826b1d9dafc",
         "id": 2
     },
     {
@@ -19,6 +22,7 @@
         "precio": 70.00,
         "descripcion": "El extintor de espuma es apropiado para la extinción de incendios de tipo A (sólidos) y tipo B (líquidos inflamables derivados del petróleo).",
         "idcategoria": 4,
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/extintores-san-juan-44d5f.appspot.com/o/extintorespuma.jpg?alt=media&token=a0046b72-8694-4ffd-a084-3f03588bf6ef",
         "id": 3
     },
     {
@@ -26,6 +30,7 @@
         "precio": 70.00,
         "descripcion": "Los extintores de incendios de gas carbónico extinguen el fuego quitando el elemento de oxígeno del triángulo del fuego y también eliminando el calor con una descarga muy fría.",
         "idcategoria": 3,
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/extintores-san-juan-44d5f.appspot.com/o/extintorco2.jpg?alt=media&token=252e9a51-0cbb-4a65-b4e0-d71619feac5d",
         "id": 4
     }
   ],
